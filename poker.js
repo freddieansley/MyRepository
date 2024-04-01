@@ -1,4 +1,4 @@
-// any tips/comments are greatly appreciated
+// any tips/comments are greatly appreciated.  
 function cardNumber() {
   number = Math.ceil(Math.random() * 13);
     if (number === 1) {
