@@ -52,7 +52,7 @@ console.log("Your hand is " + card() + " & " + card());
 console.log("The dealer's hand is " + card() + " & " + card());
 
 console.log("The board is showing " + card() + ", " + card() + ", " + card() + ", " + card() + ", " + card() + " & " + card())
-
+// for tomorrow i'm going to play with getting it to ensure that no two cards are the same.  This is my first free style script so it's going to take some reading and trial/error.
 if (card === card) {
   console.log("Someone's cheating!")
 } else {
