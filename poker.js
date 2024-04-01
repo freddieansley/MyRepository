@@ -45,7 +45,6 @@ function cardSuit() {
 card = () => {
 
 return (cardNumber() + " of " + cardSuit());
-return (cardNumber() + " of " + cardSuit());
 };
 
 console.log("Your hand is " + card() + " & " + card());
