@@ -57,5 +57,5 @@ const uniqueDeck = [...new Set(deck)];
   console.log(`The dealer's hand is: ${deck[1]} & ${deck[3]}`);
   
   console.log(`The board is showing ${deck[5]}, ${deck[6]}, ${deck[7]}, ${deck[9]} & ${deck[11]}`);
-
+//added this to track the accuracy but I rather like it so I can see if the dealer is cheating for now. 
   console.log(deck);
