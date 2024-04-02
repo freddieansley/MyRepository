@@ -52,7 +52,7 @@ const deck = [];
 };
 const uniqueDeck = [...new Set(deck)];
 
-   //cards were delt as the top card in deck or deck[0] being the top and alocated to each player in the order they would have been dealt in a game of holdem.  
+   //cards were delt as the top card in deck or deck[0] being the top and alocated to each player in the order they would have been dealt in a game of holdem. more to add later as more players are seated and the dealer changes position. 
   console.log(`Your hand is: ${deck[0]} & ${deck[2]}`);
   console.log(`The dealer's hand is: ${deck[1]} & ${deck[3]}`);
   
