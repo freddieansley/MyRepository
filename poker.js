@@ -73,6 +73,7 @@ const player = [];
 
   
   console.log(`The board is showing ${uniqueDeck[20]}, ${uniqueDeck[21]}, ${uniqueDeck[22]}, ${uniqueDeck[24]} & ${uniqueDeck[26]}`);
+// 77 and on are just console logs to make sure the deck is original and the player values are correct as I tweak the player portion
 
   console.log(uniqueDeck);
 
