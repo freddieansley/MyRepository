@@ -13,7 +13,7 @@ function cardNumber() {
       } else if (number === 6) {
         return 6;
       } else if (number === 7) {
-        return 7;2
+        return 7;
       } else if (number ===  8) {
         return 8;
       } else if (number === 9) {
